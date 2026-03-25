@@ -1,0 +1,1 @@
+echo "Bash container works"
